@@ -56,7 +56,7 @@ The transformation process for this project involves following 5 steps:
 
 ## Details on how the analysis script ```run_analysis.R``` implements the transformation steps instructed above
 
-* Prompts user to install two packages - ```reshapre2``` and ```data.table```
+* Prompts user to install two packages - ```reshape2``` and ```data.table```
 * Ensures that the required 2 libraries are installed in the system
 * Loads Activity labels, Features and Extracting Required Features(mean, std) only
 * Loads Train-data, Test-data
